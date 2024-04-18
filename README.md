@@ -44,7 +44,7 @@ Create your own `.env` file based on `.env.example` and add your settings.
 To get started right away, just run it with Python.
 
 ```bash
-python3 queue.py
+python3 run.py
 ```
 
 ### Usage
